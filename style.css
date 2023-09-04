@@ -1,0 +1,32 @@
+/* Comment Prompt */
+
+#started {
+    background-color: blanchedalmond;
+}
+
+body {
+    background-color: cadetblue;
+    font-family: "Lucida Console", "sans serif";
+    font-weight: bold;
+}
+
+table,
+td,
+th {
+    border: 2px solid;
+    width: 250px;
+    border-collapse: collapse;
+}
+
+th {
+    height: 50px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+tr:hover {
+    background-color: greenyellow;
+}
